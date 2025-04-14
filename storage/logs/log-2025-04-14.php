@@ -32,3 +32,4 @@ ERROR - 2025-04-14 16:58:43 --> Could not find the language line "confirm and Pa
 ERROR - 2025-04-14 16:58:47 --> Could not find the language line "confirm and Pay"
 ERROR - 2025-04-14 17:11:58 --> Could not find the language line "confirm and Pay"
 ERROR - 2025-04-14 17:12:03 --> Could not find the language line "confirm and Pay"
+ERROR - 2025-04-14 17:26:38 --> Could not find the language line "confirm and Pay"
